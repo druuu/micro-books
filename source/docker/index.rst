@@ -1,7 +1,7 @@
-Git - Simple and Easy Tutorial
+Docker - Novice to Advanced Tutorial
 ===============================
 
-Git simple tutorial to learn all features and use cases of Git in general implementations explained with examples for local and remote repositories.
+Docker novice to advanced tutorial is designed encourage developers to learn all features and use cases of Docker in general implementations explained with examples for local and remote repositories. You can explore virtualization possiblities after reading this book.
 
 Contents:
 
@@ -12,5 +12,5 @@ Contents:
     install-and-configure
     basics
     your-own-respository
-    become-ninja
+    become-expert
 
