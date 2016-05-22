@@ -73,6 +73,12 @@ Its good to rename container to remeber its purpose and you can do that with the
 
 This is the command to login to container, you can exit from container with normal 'exit' command but that will stop the container. Then you can start the container again.
 
+You can take advantage of already running container by forking another process of bash and get a pseudo TTY by running:
+
+.. code-block:: python
+
+	docker exec -it <container ID> /bin/bash
+
 
 4. commit changes in container
 ==============================
