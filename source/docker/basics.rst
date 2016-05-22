@@ -19,6 +19,7 @@ This is the first step as we need a virtual machine image to start with.
 This command will pull ubuntu latest image from docker online repository.
 
 You can see all images that you pulled with the following command
+
 .. code-block:: python
 
     $ docker images
@@ -44,6 +45,7 @@ The -itd stands for interactive terminal deamon.
 .. code-block:: python
 
     $ docker ps
+
 you can see running docker containers with this command
 
 .. code-block:: python
@@ -63,6 +65,7 @@ you can see all container with this command, no matter if those are stopped or r
 This way you can start or stop containers.
 
 Its good to rename container to remeber its purpose and you can do that with the following command
+
 .. code-block:: python
 
     $ docker rename <old_container_name> <new_container_name>
