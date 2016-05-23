@@ -11,4 +11,5 @@ Contents:
     introduction
     installandconfigure
     basics
+    advanced-git
 
