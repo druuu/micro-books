@@ -14,7 +14,7 @@ documents:
     folder_name: docker
     name: Docker
     updated_date: 2016-04-14 17:49:00.145102
-    visibilty: private
+    visibilty: public
   c:
     description: This django tutorial will help to learn django with real world challenges
       and coding practices.

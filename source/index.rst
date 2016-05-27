@@ -8,6 +8,7 @@ MicroSite's Documents
     :maxdepth: 1
 
     Git <git/index>
+    Docker <docker/index>
 
 .. Django <django-the-complete-tutorial/index>
 .. Django Packages <django-packages/index>
