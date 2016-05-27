@@ -1,3 +1,6 @@
+Basics
+=========
+
 Docker basics in simple words
 
 1. Pull an Image to start with
@@ -6,9 +9,8 @@ Docker basics in simple words
 4. commit changes in container
 
 
-
 1. Pull Docker Image
-====================
+----------------------------
 
 This is the first step as we need a virtual machine image to start with.
 
@@ -26,7 +28,7 @@ You can see all images that you pulled with the following command
 
 
 2. Working with Docker Containers
-=================================
+--------------------------------------
 
 Now we should create container(s) from available docker images. Containers are like live os installed in a machine where are docker image is like OS DVD. We will install OS from DVD as we create container from Docker Image.
 
@@ -56,7 +58,7 @@ you can see all container with this command, no matter if those are stopped or r
 
 
 3. start, stop, rename, attach container
-========================================
+--------------------------------------------
 
 .. code-block:: python
 
@@ -84,7 +86,7 @@ You can take advantage of already running container by forking another process o
 
 
 4. commit changes in container
-==============================
+---------------------------------
 
 You need to preserve changes made to the container to use at a later stage or to distribute to others.
 
