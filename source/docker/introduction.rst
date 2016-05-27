@@ -1,7 +1,9 @@
+Introduction
+===================
+
 Docker is like GIT for file system. It will help us to containarize our files, software to ship and run as we want. Its just like virtual machine with versioning capability.
 
-Here are simple use cases:
-==========================
+**Here are simple use cases**
 
 1. I want to learn ruby and don't want to regret installing everything that i find online (we do that a lot in the beginning of learning anything). So, I want to create a virtual machine and install/configure ruby in it by keeping my laptop clean an safe.
 
