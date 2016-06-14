@@ -9,5 +9,12 @@ Contents:
     :maxdepth: 2
 
     introduction
-    basics-of-django-mtv-mvc
+    setup-and-configure
+    basics-of-django
+    django-views
+    django-models
+    django-templates
+    django-urls
+    develop-django-blog
+    django-support
 
