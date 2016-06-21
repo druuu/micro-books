@@ -1,7 +1,9 @@
 Django - The Complete Tutorial
 ===============================
 
-This django tutorial will help to learn django with real world challenges and coding practices.
+This django tutorial will help you to learn and develop django web development with real world challenges and coding practices.
+
+Prerequisite : good knowledge of python development.
 
 Contents:
 
@@ -16,5 +18,11 @@ Contents:
     django-templates
     django-urls
     develop-django-blog
+    django-error-log-and-troubleshoot
+    django-ecommerce
+    django-performance-and-security
+    django-caching
+    django-security
+    django-best-practices
     django-support
 
