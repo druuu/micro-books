@@ -13,10 +13,11 @@ Contents:
     introduction
     setup-and-configure
     basics-of-django
+    django-urls
     django-views
+    django-classbased-views
     django-models
     django-templates
-    django-urls
     develop-django-blog
     django-error-log-and-troubleshoot
     django-ecommerce
@@ -24,5 +25,5 @@ Contents:
     django-caching
     django-security
     django-best-practices
-    django-support
+    django-projects
 
