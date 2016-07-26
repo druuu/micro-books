@@ -15,7 +15,7 @@ Contents:
     basics-of-django
     django-urls
     django-views
-    django-classbased-views
+    django-class-based-views
     django-models
     django-templates
     develop-django-blog

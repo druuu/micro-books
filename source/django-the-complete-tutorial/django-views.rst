@@ -18,3 +18,5 @@ def display_product(request, product_id):
     product = Product.objects.get_or_404(id=product_id)
     return HttpResponse("seelcted product = " + product.name)
 
+django decorators
+-----------------
